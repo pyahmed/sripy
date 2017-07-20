@@ -1,2 +1,2 @@
 # sripy
-A python script to record from shoutcast streams
+A python script to record shoutcast streams
