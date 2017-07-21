@@ -11,7 +11,7 @@ Requirements
 Usage
 ====
 * Open sripy.py
-* Fill lines 13-15 with your stream URL
+* Fill lines 13-15 with your stream URL,  if no subpage is preset, use "/"
 * run with: python3 sripy.py
 
 License
