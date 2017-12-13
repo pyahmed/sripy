@@ -10,7 +10,9 @@ Requirements
 
 Usage
 ====
-* python3 sripy.py http://www.example.com:8000/stream
+```
+python3 sripy.py http://www.example.com:8000/stream
+```
 
 License
 ====
